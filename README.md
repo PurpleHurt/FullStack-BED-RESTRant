@@ -17,3 +17,12 @@ Color palette chosen randomly with Coolers.co #ADA8B6, #FFEEDB, #4C3B4D, #A53860
 |POST       |/places/:id/rant	|Create a rant (comment) about a particular place|
 |DELETE     |/places/:id/rant/:rantId	|Delete a rant (comment) about a particular place|
 |GET        |*	|404 page (matches any route not defined above)|
+
+
+places should have a:
+*name (string)
+*city (string)
+*state (string)
+*cuisines (string)
+*a pic (string)
+
