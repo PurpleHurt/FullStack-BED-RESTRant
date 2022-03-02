@@ -12,4 +12,4 @@ let places = [{
     pic: '/images/hannah-wei-coffeecat.jpg'
 }]
 
-module.exports = places;
+module.exports = places
